@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+JHElectronics here. Just wanna say Hi to everyone.
+
