@@ -1,6 +1,6 @@
 # hello-world
 
-Hi HUmans!
+Hi Humans!
 
 JHElectronics here. Just wanna say Hi to everyone.
-Just another repository
+
